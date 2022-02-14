@@ -1,6 +1,6 @@
 local username_true = {}
 local username = globals.get_username()
-
+username_true['rings1337'] = true
 
 
 local function sendtrue()
