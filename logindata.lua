@@ -1,7 +1,6 @@
 local username_true = {}
 local username = globals.get_username()
 username_true['rings1337'] = true
-username_true['Ruzule'] = true
 username_true['ItapingU'] = true
 username_true['Remiii'] = true
 username_true['DariusQIZ'] = true
