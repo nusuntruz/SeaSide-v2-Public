@@ -34,6 +34,7 @@ username_true['Netflix34'] = true
 username_true['CeZz'] = true
 username_true['Sebighei'] = true
 username_true['Cookie52'] = true
+username_true['LaZe'] = true
 
 local function sendtrue()
     if username_true[username] == true then
