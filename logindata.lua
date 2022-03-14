@@ -38,6 +38,7 @@ username_true['LaZe'] = true
 username_true['Kowatt'] = true
 username_true['hayru aslan'] = true
 username_true['w0psy'] = true
+username_true['AWOKADO'] = true
 
 local function sendtrue()
     if username_true[username] == true then
