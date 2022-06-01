@@ -64,7 +64,7 @@ username_true['DandaPanda'] = true
 username_true['QuezzyxRegele'] = true
 username_true['Rob Jobs'] = true
 username_true['saolong1337'] = true
---DandaPanda
+username_true['Exzizz'] = true
 
 
 local function sendtrue()
